@@ -12,6 +12,8 @@ public class Ejercicio1 {
         var numero1 = num.nextInt();
         System.out.println("Ingrese otro numero: ");
         var numero2 = num.nextInt();
+        
+        System.out.println("    ");
 
         System.out.println("La suma de los dos numeros es: " + (numero1 + numero2));
 
